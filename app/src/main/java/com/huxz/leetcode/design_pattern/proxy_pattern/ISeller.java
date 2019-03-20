@@ -7,4 +7,5 @@ package com.huxz.leetcode.design_pattern.proxy_pattern;
 public interface ISeller {
 
 	void sell();
+	void buy();
 }
